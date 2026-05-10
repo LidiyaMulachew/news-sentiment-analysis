@@ -1,0 +1,501 @@
+headline,url,publisher,date,stock
+Apple faces supply chain issues,https://news.example.com/0,CNBC,2024-08-18,AAPL
+Amazon expands logistics network,https://news.example.com/1,MarketWatch,2024-09-05,AAPL
+Amazon faces regulatory pressure in EU,https://news.example.com/2,Bloomberg,2024-10-03,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/3,Bloomberg,2024-04-25,MSFT
+Microsoft acquires AI startup,https://news.example.com/4,Bloomberg,2024-03-24,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/5,CNBC,2024-07-29,TSLA
+Microsoft cloud revenue exceeds expectations,https://news.example.com/6,Bloomberg,2024-08-19,AAPL
+Tesla cuts prices to boost demand,https://news.example.com/7,Bloomberg,2024-04-19,AMZN
+Apple faces supply chain issues,https://news.example.com/8,Reuters,2024-04-09,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/9,MarketWatch,2024-03-05,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/10,Bloomberg,2024-12-16,GOOGL
+Tesla stock surges after delivery numbers,https://news.example.com/11,MarketWatch,2024-06-09,AMZN
+Amazon faces regulatory pressure in EU,https://news.example.com/12,Reuters,2024-09-09,TSLA
+Google announces AI breakthrough,https://news.example.com/13,Yahoo Finance,2024-01-01,MSFT
+Google ad revenue slows down,https://news.example.com/14,MarketWatch,2024-01-30,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/15,Yahoo Finance,2024-12-28,MSFT
+Microsoft acquires AI startup,https://news.example.com/16,Bloomberg,2024-03-31,AMZN
+Tesla cuts prices to boost demand,https://news.example.com/17,Yahoo Finance,2024-07-23,AAPL
+Google ad revenue slows down,https://news.example.com/18,CNBC,2024-04-27,GOOGL
+Google ad revenue slows down,https://news.example.com/19,CNBC,2024-04-22,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/20,Yahoo Finance,2024-09-14,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/21,Bloomberg,2024-04-26,AAPL
+Apple faces supply chain issues,https://news.example.com/22,Bloomberg,2024-06-23,AAPL
+Tesla stock surges after delivery numbers,https://news.example.com/23,Reuters,2024-04-29,MSFT
+Google announces AI breakthrough,https://news.example.com/24,MarketWatch,2024-02-24,TSLA
+Apple reports strong quarterly earnings,https://news.example.com/25,Yahoo Finance,2024-03-09,TSLA
+Tesla cuts prices to boost demand,https://news.example.com/26,Yahoo Finance,2024-02-19,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/27,MarketWatch,2024-08-20,AAPL
+Amazon faces regulatory pressure in EU,https://news.example.com/28,CNBC,2024-08-20,TSLA
+Amazon expands logistics network,https://news.example.com/29,Reuters,2024-06-10,AAPL
+Tesla cuts prices to boost demand,https://news.example.com/30,MarketWatch,2024-05-15,AAPL
+Amazon faces regulatory pressure in EU,https://news.example.com/31,CNBC,2024-11-04,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/32,CNBC,2024-02-04,GOOGL
+Google ad revenue slows down,https://news.example.com/33,Reuters,2024-05-11,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/34,Reuters,2024-05-10,AMZN
+Apple faces supply chain issues,https://news.example.com/35,MarketWatch,2024-02-10,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/36,Reuters,2024-09-05,GOOGL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/37,CNBC,2024-04-29,MSFT
+Microsoft cloud revenue exceeds expectations,https://news.example.com/38,MarketWatch,2024-05-24,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/39,MarketWatch,2024-05-11,MSFT
+Apple faces supply chain issues,https://news.example.com/40,MarketWatch,2024-11-01,MSFT
+Apple faces supply chain issues,https://news.example.com/41,Yahoo Finance,2024-07-22,TSLA
+Google ad revenue slows down,https://news.example.com/42,Reuters,2024-05-03,AMZN
+Apple faces supply chain issues,https://news.example.com/43,Yahoo Finance,2024-09-10,AMZN
+Tesla cuts prices to boost demand,https://news.example.com/44,CNBC,2024-11-14,AAPL
+Amazon expands logistics network,https://news.example.com/45,CNBC,2024-09-16,GOOGL
+Google announces AI breakthrough,https://news.example.com/46,CNBC,2024-05-25,MSFT
+Google announces AI breakthrough,https://news.example.com/47,Bloomberg,2024-09-18,TSLA
+Google announces AI breakthrough,https://news.example.com/48,Reuters,2024-08-16,AMZN
+Microsoft acquires AI startup,https://news.example.com/49,Reuters,2024-10-11,AMZN
+Apple faces supply chain issues,https://news.example.com/50,Bloomberg,2024-02-04,AAPL
+Tesla stock surges after delivery numbers,https://news.example.com/51,CNBC,2024-02-09,MSFT
+Tesla cuts prices to boost demand,https://news.example.com/52,Yahoo Finance,2024-06-11,AMZN
+Apple faces supply chain issues,https://news.example.com/53,Yahoo Finance,2024-12-21,TSLA
+Microsoft acquires AI startup,https://news.example.com/54,CNBC,2024-02-12,AMZN
+Tesla stock surges after delivery numbers,https://news.example.com/55,Reuters,2024-03-29,AAPL
+Amazon expands logistics network,https://news.example.com/56,Bloomberg,2024-01-15,AMZN
+Tesla stock surges after delivery numbers,https://news.example.com/57,Yahoo Finance,2024-02-10,GOOGL
+Tesla stock surges after delivery numbers,https://news.example.com/58,Yahoo Finance,2024-08-02,AAPL
+Amazon faces regulatory pressure in EU,https://news.example.com/59,MarketWatch,2024-09-01,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/60,Reuters,2024-05-24,AMZN
+Google ad revenue slows down,https://news.example.com/61,CNBC,2024-07-19,MSFT
+Amazon expands logistics network,https://news.example.com/62,Reuters,2024-06-18,GOOGL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/63,MarketWatch,2024-09-13,AMZN
+Apple faces supply chain issues,https://news.example.com/64,Yahoo Finance,2024-03-17,TSLA
+Microsoft acquires AI startup,https://news.example.com/65,Reuters,2024-04-05,GOOGL
+Tesla cuts prices to boost demand,https://news.example.com/66,MarketWatch,2024-12-07,MSFT
+Google announces AI breakthrough,https://news.example.com/67,MarketWatch,2024-07-10,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/68,CNBC,2024-01-30,TSLA
+Apple reports strong quarterly earnings,https://news.example.com/69,Yahoo Finance,2024-10-06,AMZN
+Amazon expands logistics network,https://news.example.com/70,Reuters,2024-03-27,TSLA
+Apple faces supply chain issues,https://news.example.com/71,MarketWatch,2024-09-12,GOOGL
+Amazon expands logistics network,https://news.example.com/72,Yahoo Finance,2024-05-25,TSLA
+Amazon expands logistics network,https://news.example.com/73,Reuters,2024-05-27,GOOGL
+Apple reports strong quarterly earnings,https://news.example.com/74,Yahoo Finance,2024-12-07,TSLA
+Microsoft acquires AI startup,https://news.example.com/75,MarketWatch,2024-11-23,AMZN
+Tesla cuts prices to boost demand,https://news.example.com/76,CNBC,2024-09-12,GOOGL
+Apple faces supply chain issues,https://news.example.com/77,Bloomberg,2024-02-09,AMZN
+Amazon faces regulatory pressure in EU,https://news.example.com/78,CNBC,2024-12-05,TSLA
+Microsoft acquires AI startup,https://news.example.com/79,Reuters,2024-12-03,AMZN
+Microsoft acquires AI startup,https://news.example.com/80,CNBC,2024-10-19,AAPL
+Google ad revenue slows down,https://news.example.com/81,Yahoo Finance,2024-11-28,AMZN
+Microsoft acquires AI startup,https://news.example.com/82,Yahoo Finance,2024-07-02,TSLA
+Apple reports strong quarterly earnings,https://news.example.com/83,CNBC,2024-10-05,GOOGL
+Apple faces supply chain issues,https://news.example.com/84,Bloomberg,2024-03-06,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/85,MarketWatch,2024-11-21,TSLA
+Amazon expands logistics network,https://news.example.com/86,Reuters,2024-04-13,MSFT
+Google ad revenue slows down,https://news.example.com/87,Bloomberg,2024-04-18,GOOGL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/88,Yahoo Finance,2024-04-28,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/89,CNBC,2024-11-08,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/90,Yahoo Finance,2024-06-19,TSLA
+Tesla cuts prices to boost demand,https://news.example.com/91,Yahoo Finance,2024-05-17,TSLA
+Tesla stock surges after delivery numbers,https://news.example.com/92,Reuters,2024-07-08,AMZN
+Microsoft cloud revenue exceeds expectations,https://news.example.com/93,Bloomberg,2024-10-24,GOOGL
+Google announces AI breakthrough,https://news.example.com/94,Reuters,2024-04-30,MSFT
+Google ad revenue slows down,https://news.example.com/95,CNBC,2024-12-31,AAPL
+Tesla stock surges after delivery numbers,https://news.example.com/96,Bloomberg,2024-07-07,AMZN
+Microsoft acquires AI startup,https://news.example.com/97,MarketWatch,2024-06-04,MSFT
+Microsoft cloud revenue exceeds expectations,https://news.example.com/98,Bloomberg,2024-08-05,AAPL
+Apple faces supply chain issues,https://news.example.com/99,CNBC,2024-08-11,MSFT
+Microsoft cloud revenue exceeds expectations,https://news.example.com/100,Bloomberg,2024-10-29,AAPL
+Amazon faces regulatory pressure in EU,https://news.example.com/101,CNBC,2024-09-24,GOOGL
+Tesla stock surges after delivery numbers,https://news.example.com/102,CNBC,2024-02-17,GOOGL
+Google ad revenue slows down,https://news.example.com/103,Yahoo Finance,2024-03-25,GOOGL
+Google announces AI breakthrough,https://news.example.com/104,Yahoo Finance,2024-10-20,AMZN
+Google ad revenue slows down,https://news.example.com/105,Yahoo Finance,2024-04-22,AMZN
+Tesla stock surges after delivery numbers,https://news.example.com/106,Bloomberg,2024-07-21,GOOGL
+Amazon faces regulatory pressure in EU,https://news.example.com/107,CNBC,2024-03-10,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/108,MarketWatch,2024-12-27,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/109,Yahoo Finance,2024-05-29,AMZN
+Apple faces supply chain issues,https://news.example.com/110,Bloomberg,2024-03-17,TSLA
+Microsoft cloud revenue exceeds expectations,https://news.example.com/111,Yahoo Finance,2024-09-28,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/112,Bloomberg,2024-04-07,MSFT
+Tesla cuts prices to boost demand,https://news.example.com/113,CNBC,2024-06-23,AMZN
+Amazon expands logistics network,https://news.example.com/114,Reuters,2024-10-31,AAPL
+Apple faces supply chain issues,https://news.example.com/115,CNBC,2024-09-05,TSLA
+Apple faces supply chain issues,https://news.example.com/116,CNBC,2024-11-20,MSFT
+Amazon expands logistics network,https://news.example.com/117,Reuters,2024-03-08,TSLA
+Amazon expands logistics network,https://news.example.com/118,Reuters,2024-11-27,AAPL
+Google ad revenue slows down,https://news.example.com/119,Reuters,2024-12-10,GOOGL
+Apple faces supply chain issues,https://news.example.com/120,MarketWatch,2024-12-11,AAPL
+Amazon expands logistics network,https://news.example.com/121,Bloomberg,2024-04-26,TSLA
+Tesla stock surges after delivery numbers,https://news.example.com/122,Bloomberg,2024-09-07,AMZN
+Amazon expands logistics network,https://news.example.com/123,CNBC,2024-03-17,MSFT
+Tesla cuts prices to boost demand,https://news.example.com/124,Reuters,2024-05-19,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/125,CNBC,2024-02-03,AAPL
+Amazon expands logistics network,https://news.example.com/126,Bloomberg,2024-01-22,TSLA
+Microsoft acquires AI startup,https://news.example.com/127,CNBC,2024-01-30,AMZN
+Apple reports strong quarterly earnings,https://news.example.com/128,MarketWatch,2024-12-11,AMZN
+Google ad revenue slows down,https://news.example.com/129,MarketWatch,2024-05-16,AAPL
+Tesla stock surges after delivery numbers,https://news.example.com/130,MarketWatch,2024-05-20,AAPL
+Tesla cuts prices to boost demand,https://news.example.com/131,CNBC,2024-07-22,AMZN
+Microsoft cloud revenue exceeds expectations,https://news.example.com/132,Reuters,2024-12-28,AAPL
+Microsoft acquires AI startup,https://news.example.com/133,MarketWatch,2024-10-16,TSLA
+Apple reports strong quarterly earnings,https://news.example.com/134,Yahoo Finance,2024-01-17,AMZN
+Google announces AI breakthrough,https://news.example.com/135,CNBC,2024-03-22,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/136,MarketWatch,2024-05-13,AMZN
+Amazon faces regulatory pressure in EU,https://news.example.com/137,Reuters,2024-03-08,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/138,MarketWatch,2024-01-18,MSFT
+Microsoft cloud revenue exceeds expectations,https://news.example.com/139,MarketWatch,2024-10-15,GOOGL
+Apple reports strong quarterly earnings,https://news.example.com/140,CNBC,2024-03-02,GOOGL
+Microsoft acquires AI startup,https://news.example.com/141,Reuters,2024-06-06,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/142,MarketWatch,2024-08-08,GOOGL
+Microsoft acquires AI startup,https://news.example.com/143,MarketWatch,2024-02-10,AMZN
+Tesla stock surges after delivery numbers,https://news.example.com/144,Reuters,2024-11-14,MSFT
+Google announces AI breakthrough,https://news.example.com/145,Bloomberg,2024-10-11,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/146,Reuters,2024-04-27,TSLA
+Tesla cuts prices to boost demand,https://news.example.com/147,Bloomberg,2024-05-24,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/148,Bloomberg,2024-09-15,GOOGL
+Tesla cuts prices to boost demand,https://news.example.com/149,Yahoo Finance,2024-04-27,TSLA
+Tesla cuts prices to boost demand,https://news.example.com/150,MarketWatch,2024-08-22,AMZN
+Google ad revenue slows down,https://news.example.com/151,CNBC,2024-07-13,TSLA
+Google ad revenue slows down,https://news.example.com/152,Yahoo Finance,2024-06-09,TSLA
+Google ad revenue slows down,https://news.example.com/153,Reuters,2024-01-24,MSFT
+Google announces AI breakthrough,https://news.example.com/154,MarketWatch,2024-09-29,AMZN
+Google announces AI breakthrough,https://news.example.com/155,CNBC,2024-08-13,GOOGL
+Apple reports strong quarterly earnings,https://news.example.com/156,CNBC,2024-06-20,AMZN
+Google announces AI breakthrough,https://news.example.com/157,CNBC,2024-11-13,AMZN
+Tesla cuts prices to boost demand,https://news.example.com/158,Reuters,2024-03-11,AMZN
+Apple faces supply chain issues,https://news.example.com/159,Yahoo Finance,2024-04-25,GOOGL
+Google announces AI breakthrough,https://news.example.com/160,MarketWatch,2024-05-30,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/161,MarketWatch,2024-09-12,AAPL
+Amazon expands logistics network,https://news.example.com/162,MarketWatch,2024-02-26,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/163,MarketWatch,2024-01-23,AAPL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/164,Yahoo Finance,2024-03-12,AAPL
+Amazon expands logistics network,https://news.example.com/165,Yahoo Finance,2024-05-16,GOOGL
+Google announces AI breakthrough,https://news.example.com/166,CNBC,2024-08-15,TSLA
+Apple faces supply chain issues,https://news.example.com/167,Reuters,2024-01-13,MSFT
+Google announces AI breakthrough,https://news.example.com/168,Bloomberg,2024-06-04,TSLA
+Microsoft acquires AI startup,https://news.example.com/169,Reuters,2024-05-21,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/170,CNBC,2024-12-30,TSLA
+Apple faces supply chain issues,https://news.example.com/171,MarketWatch,2024-08-07,TSLA
+Tesla stock surges after delivery numbers,https://news.example.com/172,Reuters,2024-08-17,AAPL
+Apple reports strong quarterly earnings,https://news.example.com/173,CNBC,2024-11-04,TSLA
+Amazon expands logistics network,https://news.example.com/174,Bloomberg,2024-09-11,AMZN
+Microsoft acquires AI startup,https://news.example.com/175,Bloomberg,2024-11-09,AMZN
+Apple faces supply chain issues,https://news.example.com/176,CNBC,2024-07-19,TSLA
+Microsoft acquires AI startup,https://news.example.com/177,Reuters,2024-06-09,GOOGL
+Microsoft cloud revenue exceeds expectations,https://news.example.com/178,Yahoo Finance,2024-02-13,GOOGL
+Apple reports strong quarterly earnings,https://news.example.com/179,MarketWatch,2024-09-03,TSLA
+Google ad revenue slows down,https://news.example.com/180,Yahoo Finance,2024-01-18,TSLA
+Tesla cuts prices to boost demand,https://news.example.com/181,MarketWatch,2024-01-19,GOOGL
+Tesla stock surges after delivery numbers,https://news.example.com/182,Bloomberg,2024-07-12,AMZN
+Microsoft acquires AI startup,https://news.example.com/183,Reuters,2024-10-10,AAPL
+Amazon expands logistics network,https://news.example.com/184,Bloomberg,2024-02-20,AAPL
+Amazon expands logistics network,https://news.example.com/185,MarketWatch,2024-02-24,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/186,CNBC,2024-05-23,AAPL
+Microsoft acquires AI startup,https://news.example.com/187,Reuters,2024-05-11,TSLA
+Google ad revenue slows down,https://news.example.com/188,Yahoo Finance,2024-07-10,MSFT
+Apple reports strong quarterly earnings,https://news.example.com/189,CNBC,2024-06-30,GOOGL
+Apple reports strong quarterly earnings,https://news.example.com/190,CNBC,2024-03-06,MSFT
+Google announces AI breakthrough,https://news.example.com/191,Bloomberg,2024-12-19,TSLA
+Microsoft acquires AI startup,https://news.example.com/192,Reuters,2024-09-20,MSFT
+Apple faces supply chain issues,https://news.example.com/193,Yahoo Finance,2024-09-06,MSFT
+Tesla stock surges after delivery numbers,https://news.example.com/194,Yahoo Finance,2024-12-05,AAPL
+Tesla cuts prices to boost demand,https://news.example.com/195,CNBC,2024-04-12,AAPL
+Tesla stock surges after delivery numbers,https://news.example.com/196,Reuters,2024-04-25,TSLA
+Tesla stock surges after delivery numbers,https://news.example.com/197,Yahoo Finance,2024-07-18,MSFT
+Tesla cuts prices to boost demand,https://news.example.com/198,Bloomberg,2024-11-10,AAPL
+Microsoft acquires AI startup,https://news.example.com/199,Yahoo Finance,2024-04-02,AAPL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-0,CNBC,2024-02-26,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-1,Reuters,2024-02-24,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-2,Bloomberg,2024-03-20,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/amzn-3,Yahoo Finance,2024-01-30,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-4,Reuters,2024-02-19,AAPL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-5,Reuters,2024-03-28,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/aapl-6,CNBC,2024-01-18,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-7,Yahoo Finance,2024-02-25,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-8,CNBC,2024-03-23,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/aapl-9,Reuters,2024-02-26,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-10,MarketWatch,2024-02-12,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/msft-11,MarketWatch,2024-03-27,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/amzn-12,Yahoo Finance,2024-01-26,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-13,Reuters,2024-02-07,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-14,Yahoo Finance,2024-01-06,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/aapl-15,Bloomberg,2024-01-17,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/aapl-16,Bloomberg,2024-01-29,AAPL
+new product launch drives optimism,https://finance.yahoo.com/news/googl-17,MarketWatch,2024-02-09,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-18,MarketWatch,2024-01-24,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-19,CNBC,2024-01-16,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-20,CNBC,2024-01-04,AMZN
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-21,Reuters,2024-01-03,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/amzn-22,Bloomberg,2024-02-05,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-23,CNBC,2024-02-29,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/msft-24,Yahoo Finance,2024-03-03,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-25,Yahoo Finance,2024-01-19,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/tsla-26,Reuters,2024-02-23,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-27,Reuters,2024-02-27,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/amzn-28,CNBC,2024-03-12,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-29,MarketWatch,2024-02-12,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-30,MarketWatch,2024-01-09,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-31,MarketWatch,2024-02-24,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-32,Yahoo Finance,2024-03-25,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-33,CNBC,2024-03-11,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-34,MarketWatch,2024-03-11,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-35,Yahoo Finance,2024-01-14,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-36,Reuters,2024-02-05,AAPL
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-37,CNBC,2024-02-13,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-38,CNBC,2024-03-04,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-39,MarketWatch,2024-03-01,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-40,Yahoo Finance,2024-02-27,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-41,MarketWatch,2024-03-13,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-42,Yahoo Finance,2024-03-04,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-43,Bloomberg,2024-03-01,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-44,Reuters,2024-03-25,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-45,MarketWatch,2024-01-13,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/msft-46,Bloomberg,2024-03-08,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-47,Yahoo Finance,2024-03-22,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-48,MarketWatch,2024-02-05,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-49,Yahoo Finance,2024-03-02,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/googl-50,CNBC,2024-02-14,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/msft-51,Reuters,2024-03-13,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-52,Yahoo Finance,2024-02-17,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/msft-53,Yahoo Finance,2024-01-29,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/msft-54,MarketWatch,2024-02-07,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/googl-55,Bloomberg,2024-02-14,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/aapl-56,Yahoo Finance,2024-02-29,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-57,Yahoo Finance,2024-02-08,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-58,Reuters,2024-02-20,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-59,Bloomberg,2024-02-08,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/amzn-60,Bloomberg,2024-02-09,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/msft-61,MarketWatch,2024-02-09,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-62,CNBC,2024-02-19,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/msft-63,Yahoo Finance,2024-03-30,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-64,MarketWatch,2024-02-08,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-65,MarketWatch,2024-02-11,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-66,Reuters,2024-02-20,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-67,Bloomberg,2024-01-13,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/googl-68,MarketWatch,2024-02-02,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-69,Bloomberg,2024-03-17,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/aapl-70,Yahoo Finance,2024-03-09,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-71,CNBC,2024-02-18,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-72,CNBC,2024-01-15,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-73,Reuters,2024-01-05,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/msft-74,Bloomberg,2024-02-25,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/amzn-75,Bloomberg,2024-02-19,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-76,Reuters,2024-01-04,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-77,MarketWatch,2024-02-23,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-78,Yahoo Finance,2024-01-06,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-79,Reuters,2024-01-13,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-80,Reuters,2024-02-29,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/amzn-81,MarketWatch,2024-01-17,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-82,Yahoo Finance,2024-03-05,TSLA
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-83,CNBC,2024-03-02,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-84,Bloomberg,2024-02-26,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-85,Bloomberg,2024-02-20,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/msft-86,CNBC,2024-02-03,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-87,MarketWatch,2024-02-29,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-88,Reuters,2024-01-11,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-89,Bloomberg,2024-01-23,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/amzn-90,Reuters,2024-02-15,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/amzn-91,Bloomberg,2024-03-30,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-92,Yahoo Finance,2024-03-05,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-93,Reuters,2024-01-12,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-94,CNBC,2024-02-25,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/tsla-95,Yahoo Finance,2024-02-04,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-96,Reuters,2024-01-09,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/tsla-97,Bloomberg,2024-01-14,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-98,MarketWatch,2024-01-17,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-99,Bloomberg,2024-03-02,AAPL
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-100,MarketWatch,2024-02-21,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-101,Bloomberg,2024-01-25,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/googl-102,MarketWatch,2024-02-16,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-103,CNBC,2024-01-04,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-104,CNBC,2024-01-05,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-105,Reuters,2024-03-13,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-106,Yahoo Finance,2024-02-15,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-107,Bloomberg,2024-03-24,AMZN
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-108,Reuters,2024-01-16,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-109,CNBC,2024-01-05,AMZN
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-110,MarketWatch,2024-03-23,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/googl-111,CNBC,2024-02-11,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-112,MarketWatch,2024-01-27,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-113,CNBC,2024-02-22,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-114,Bloomberg,2024-03-10,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/msft-115,Yahoo Finance,2024-03-11,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-116,Yahoo Finance,2024-02-08,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-117,Yahoo Finance,2024-03-03,AMZN
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-118,Bloomberg,2024-01-13,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-119,CNBC,2024-01-18,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-120,Yahoo Finance,2024-02-22,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/amzn-121,MarketWatch,2024-02-04,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-122,CNBC,2024-01-25,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/googl-123,Yahoo Finance,2024-03-17,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-124,Bloomberg,2024-01-30,AMZN
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-125,Reuters,2024-02-23,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-126,Reuters,2024-03-03,TSLA
+market reacts to tech sector growth,https://finance.yahoo.com/news/msft-127,MarketWatch,2024-02-13,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-128,MarketWatch,2024-02-07,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/amzn-129,CNBC,2024-03-08,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-130,CNBC,2024-03-27,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/googl-131,MarketWatch,2024-02-16,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/aapl-132,CNBC,2024-03-27,AAPL
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-133,Reuters,2024-02-20,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-134,Reuters,2024-02-18,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-135,Yahoo Finance,2024-01-30,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-136,MarketWatch,2024-03-29,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/tsla-137,Reuters,2024-03-23,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-138,MarketWatch,2024-02-12,AAPL
+market reacts to tech sector growth,https://finance.yahoo.com/news/aapl-139,Reuters,2024-03-18,AAPL
+stock rises after strong earnings report,https://finance.yahoo.com/news/aapl-140,Reuters,2024-01-13,AAPL
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-141,Reuters,2024-03-25,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-142,Yahoo Finance,2024-03-19,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-143,CNBC,2024-03-07,AAPL
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-144,Yahoo Finance,2024-03-25,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-145,Reuters,2024-02-25,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/googl-146,Reuters,2024-02-16,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-147,Bloomberg,2024-02-12,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-148,Yahoo Finance,2024-01-13,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-149,CNBC,2024-03-10,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/amzn-150,Reuters,2024-02-08,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-151,Yahoo Finance,2024-01-18,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/amzn-152,CNBC,2024-01-16,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/googl-153,Reuters,2024-02-27,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/aapl-154,Yahoo Finance,2024-03-14,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/googl-155,Yahoo Finance,2024-01-15,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-156,Reuters,2024-02-21,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/amzn-157,MarketWatch,2024-03-26,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/amzn-158,Yahoo Finance,2024-03-26,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-159,MarketWatch,2024-02-06,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-160,Reuters,2024-02-21,AAPL
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-161,Bloomberg,2024-01-10,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/msft-162,Reuters,2024-03-10,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-163,Yahoo Finance,2024-01-27,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/googl-164,MarketWatch,2024-02-29,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-165,Reuters,2024-01-06,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/googl-166,Bloomberg,2024-03-21,GOOGL
+company announces AI innovation,https://finance.yahoo.com/news/msft-167,CNBC,2024-03-12,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-168,CNBC,2024-02-17,TSLA
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-169,Reuters,2024-01-22,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/googl-170,MarketWatch,2024-02-21,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/googl-171,CNBC,2024-03-10,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-172,Yahoo Finance,2024-02-10,AMZN
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-173,Reuters,2024-03-11,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/amzn-174,Yahoo Finance,2024-01-03,AMZN
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-175,Bloomberg,2024-02-10,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-176,Bloomberg,2024-01-25,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-177,Reuters,2024-03-26,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/aapl-178,CNBC,2024-03-18,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-179,MarketWatch,2024-02-23,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-180,Yahoo Finance,2024-03-23,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-181,MarketWatch,2024-03-25,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-182,Reuters,2024-01-06,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-183,Yahoo Finance,2024-01-16,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-184,Yahoo Finance,2024-02-14,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-185,Bloomberg,2024-02-23,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-186,MarketWatch,2024-02-20,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/aapl-187,Yahoo Finance,2024-01-21,AAPL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-188,Reuters,2024-03-14,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-189,CNBC,2024-03-18,AAPL
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-190,Bloomberg,2024-01-03,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/googl-191,MarketWatch,2024-01-14,GOOGL
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-192,MarketWatch,2024-01-28,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-193,Bloomberg,2024-03-27,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-194,Bloomberg,2024-02-27,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-195,Yahoo Finance,2024-03-15,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-196,CNBC,2024-03-26,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-197,Yahoo Finance,2024-03-03,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/aapl-198,MarketWatch,2024-03-28,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-199,Reuters,2024-03-24,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-200,MarketWatch,2024-03-17,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/googl-201,Reuters,2024-03-07,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-202,CNBC,2024-02-14,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-203,Reuters,2024-02-13,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/googl-204,Bloomberg,2024-01-29,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-205,Yahoo Finance,2024-02-14,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-206,CNBC,2024-03-09,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-207,Reuters,2024-01-31,AMZN
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-208,Reuters,2024-03-25,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-209,Reuters,2024-03-20,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/amzn-210,Reuters,2024-01-25,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/tsla-211,Yahoo Finance,2024-01-12,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-212,MarketWatch,2024-01-09,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-213,Yahoo Finance,2024-02-07,AMZN
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-214,Reuters,2024-03-12,TSLA
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-215,Yahoo Finance,2024-03-03,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/msft-216,MarketWatch,2024-02-19,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-217,CNBC,2024-03-06,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-218,Bloomberg,2024-01-14,GOOGL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-219,Yahoo Finance,2024-03-08,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-220,MarketWatch,2024-03-24,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-221,Yahoo Finance,2024-03-28,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-222,Reuters,2024-03-25,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/amzn-223,MarketWatch,2024-01-12,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-224,MarketWatch,2024-01-08,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/aapl-225,MarketWatch,2024-02-13,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/aapl-226,Yahoo Finance,2024-01-19,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-227,Bloomberg,2024-01-17,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-228,MarketWatch,2024-03-26,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/msft-229,Bloomberg,2024-02-08,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/aapl-230,CNBC,2024-03-20,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/amzn-231,Bloomberg,2024-01-02,AMZN
+stock rises after strong earnings report,https://finance.yahoo.com/news/msft-232,Reuters,2024-02-16,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/msft-233,CNBC,2024-03-17,MSFT
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-234,Yahoo Finance,2024-03-05,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-235,MarketWatch,2024-02-09,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/aapl-236,Bloomberg,2024-03-08,AAPL
+new product launch drives optimism,https://finance.yahoo.com/news/googl-237,Reuters,2024-03-18,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-238,CNBC,2024-02-08,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/aapl-239,Yahoo Finance,2024-03-23,AAPL
+new product launch drives optimism,https://finance.yahoo.com/news/msft-240,MarketWatch,2024-02-05,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-241,Bloomberg,2024-03-30,MSFT
+company announces AI innovation,https://finance.yahoo.com/news/aapl-242,Yahoo Finance,2024-02-14,AAPL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-243,Reuters,2024-02-13,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/amzn-244,Bloomberg,2024-01-30,AMZN
+new product launch drives optimism,https://finance.yahoo.com/news/msft-245,CNBC,2024-01-08,MSFT
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-246,MarketWatch,2024-01-07,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-247,CNBC,2024-03-21,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/tsla-248,Reuters,2024-02-24,TSLA
+regulatory pressure impacts stock,https://finance.yahoo.com/news/amzn-249,Yahoo Finance,2024-01-13,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/msft-250,Reuters,2024-01-19,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-251,Bloomberg,2024-03-24,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/msft-252,Reuters,2024-01-03,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-253,Reuters,2024-01-23,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/googl-254,Bloomberg,2024-03-25,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/msft-255,Yahoo Finance,2024-03-01,MSFT
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-256,Yahoo Finance,2024-03-31,GOOGL
+regulatory pressure impacts stock,https://finance.yahoo.com/news/tsla-257,MarketWatch,2024-02-09,TSLA
+company announces AI innovation,https://finance.yahoo.com/news/amzn-258,Yahoo Finance,2024-03-11,AMZN
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-259,Yahoo Finance,2024-01-30,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-260,CNBC,2024-01-01,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-261,Yahoo Finance,2024-01-21,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-262,Reuters,2024-01-24,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-263,Yahoo Finance,2024-01-25,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/aapl-264,MarketWatch,2024-03-31,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-265,CNBC,2024-02-07,AAPL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-266,Reuters,2024-02-15,AMZN
+strong revenue boosts confidence,https://finance.yahoo.com/news/aapl-267,Bloomberg,2024-02-23,AAPL
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-268,MarketWatch,2024-03-09,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-269,CNBC,2024-01-25,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/googl-270,Reuters,2024-03-12,GOOGL
+stock rises after strong earnings report,https://finance.yahoo.com/news/googl-271,Yahoo Finance,2024-02-11,GOOGL
+investors respond to quarterly results,https://finance.yahoo.com/news/msft-272,MarketWatch,2024-03-28,MSFT
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-273,Bloomberg,2024-01-11,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-274,Yahoo Finance,2024-03-29,AAPL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/amzn-275,Yahoo Finance,2024-02-27,AMZN
+shares fall due to supply chain issues,https://finance.yahoo.com/news/aapl-276,Reuters,2024-01-19,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/aapl-277,CNBC,2024-03-02,AAPL
+company announces AI innovation,https://finance.yahoo.com/news/msft-278,MarketWatch,2024-02-02,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-279,Reuters,2024-02-16,TSLA
+stock rises after strong earnings report,https://finance.yahoo.com/news/tsla-280,MarketWatch,2024-01-30,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-281,MarketWatch,2024-02-16,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/tsla-282,Bloomberg,2024-02-23,TSLA
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-283,MarketWatch,2024-02-17,TSLA
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-284,Reuters,2024-01-10,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/googl-285,CNBC,2024-02-26,GOOGL
+shares fall due to supply chain issues,https://finance.yahoo.com/news/msft-286,Bloomberg,2024-03-11,MSFT
+new product launch drives optimism,https://finance.yahoo.com/news/tsla-287,Bloomberg,2024-02-17,TSLA
+market reacts to tech sector growth,https://finance.yahoo.com/news/tsla-288,Reuters,2024-02-21,TSLA
+investors respond to quarterly results,https://finance.yahoo.com/news/aapl-289,MarketWatch,2024-02-07,AAPL
+new product launch drives optimism,https://finance.yahoo.com/news/aapl-290,Bloomberg,2024-02-14,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/tsla-291,MarketWatch,2024-01-03,TSLA
+strong revenue boosts confidence,https://finance.yahoo.com/news/aapl-292,CNBC,2024-01-09,AAPL
+investors respond to quarterly results,https://finance.yahoo.com/news/amzn-293,Bloomberg,2024-02-11,AMZN
+regulatory pressure impacts stock,https://finance.yahoo.com/news/googl-294,Yahoo Finance,2024-02-10,GOOGL
+market reacts to tech sector growth,https://finance.yahoo.com/news/aapl-295,Bloomberg,2024-03-13,AAPL
+market reacts to tech sector growth,https://finance.yahoo.com/news/msft-296,Reuters,2024-03-13,MSFT
+investors respond to quarterly results,https://finance.yahoo.com/news/msft-297,Bloomberg,2024-02-08,MSFT
+strong revenue boosts confidence,https://finance.yahoo.com/news/amzn-298,Yahoo Finance,2024-01-14,AMZN
+company announces AI innovation,https://finance.yahoo.com/news/amzn-299,MarketWatch,2024-03-12,AMZN
